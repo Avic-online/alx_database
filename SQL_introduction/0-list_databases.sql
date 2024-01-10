@@ -3,3 +3,5 @@
 SHOW database;
 
 CREATE database;
+
+CREATE table;
