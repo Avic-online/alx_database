@@ -1,0 +1,1 @@
+This is our readme file fo more queries on SQL
